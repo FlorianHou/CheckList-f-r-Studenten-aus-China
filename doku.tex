@@ -1,0 +1,50 @@
+\documentclass[12pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[UTF8]{ctex}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{ulem}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{subfiles}
+\usepackage{cleveref}
+
+%\setlength{\emergencystretch}{3em}
+
+%\graphicspath{images/}
+
+%\renewcommand\descriptionlabel[1]{\(\bullet\) \textbf{#1}}
+
+\lstset{numberstyle = \tiny, numbers=left, firstnumber=1, stepnumber=1, basicstyle=\ttfamily, breaklines=true, frame = single, showspaces = false, framexleftmargin=20pt, language=Python}
+
+\title{建议清单}
+\author{Zhaoyang Hou \\Noha Han \\Xiaochuan Ma \\Xiaoyan Zhou \\Dachuan Zhang}
+\date{\today}
+
+\begin{document}
+	\pagenumbering{roman}
+	\maketitle
+	\newpage
+	\tableofcontents
+	\newpage
+	\setcounter{page}{1}
+	\pagenumbering{arabic}
+	\section{Alltag}
+	\subfile{alltag}
+	\section{Elektronische Produkte}
+	\subfile{ele}
+	\section{Markt}
+	\subfile{markt}
+	\newpage
+	\section{To-DO}
+	\subfile{todo}
+	\section{Was neu？}
+	\subfile{neu}
+
+	
+\end{document}
