@@ -2,25 +2,27 @@
 \contentsline {section}{\numberline {1}Alltag}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}日常}{1}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}洗漱}{2}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}吃喝}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.3}吃喝}{3}{subsection.1.3}%
 \contentsline {subsection}{\numberline {1.4}衣物}{3}{subsection.1.4}%
 \contentsline {subsection}{\numberline {1.5}杂七杂八}{4}{subsection.1.5}%
-\contentsline {section}{\numberline {2}Elektronische Produkte}{4}{section.2}%
-\contentsline {section}{\numberline {3}Markt}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}常用综合超市}{6}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Amazon}{7}{subsubsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.2}日化用品}{7}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}dm}{7}{subsubsection.3.2.1}%
+\contentsline {section}{\numberline {2}Elektronische Produkte}{5}{section.2}%
+\contentsline {section}{\numberline {3}Markt}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}常用综合超市}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Amazon}{8}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}日化用品}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}dm}{8}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Müller}{9}{subsubsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.3}电子商店}{9}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Satrun und MediaMarkt}{9}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Cyberport}{9}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3}电子商店}{10}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Satrun und MediaMarkt}{10}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Cyberport}{10}{subsubsection.3.3.2}%
 \contentsline {subsubsection}{\numberline {3.3.3}Conrad}{10}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}吃喝玩乐}{10}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Forum}{10}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4}吃喝玩乐}{11}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Forum}{11}{subsubsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.5}Lockdown}{11}{subsection.3.5}%
-\contentsline {section}{\numberline {4}To-DO}{12}{section.4}%
-\contentsline {section}{\numberline {5}Was neu？}{12}{section.5}%
-\contentsline {subsection}{\numberline {5.1}09.02.2021-20:32}{12}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}13.02.2021-10:37}{12}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}17.02.2021-13:52}{12}{subsection.5.3}%
+\contentsline {section}{\numberline {4}To-DO}{13}{section.4}%
+\contentsline {section}{\numberline {5}Was neu？}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}09.02.2021-20:32}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}13.02.2021-10:37}{13}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}17.02.2021-13:52}{13}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}17.02.2021-16:34}{13}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}04.03.2021-08:57}{13}{subsection.5.5}%
